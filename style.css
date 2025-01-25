@@ -1,0 +1,83 @@
+.navbtn{
+
+border: 1px solid #5E3BEE;
+color: #5E3BEE;
+
+}
+
+.herobox{
+background-color:#F5FCFF;
+;
+
+}
+
+.purple{
+
+  color: #5E3BEE;  
+}
+
+.btnhero{
+    background-color: #5E3BEE;
+    color: white;
+}
+
+.newborder{
+  background-color: #F5FCFF;
+}
+
+.imgcss{
+background-color: white;
+box-shadow: 0px 0px 16px 0px #0000001A;
+
+
+}
+
+.vector{
+
+border-bottom: 1px solid #5E3BEE ;
+width: 65%;
+
+}
+
+.cards3{
+
+  box-shadow: 0px 5.33px 16px 0px #00000026;
+  border: none;
+
+}
+
+.greencard{
+
+border: 1.33px solid #006B6A !important;
+
+}
+
+.boxgreen{
+
+  background-color: #F5FCFF;
+  
+}
+
+.formcss{
+
+
+  /* width: Fixed (1,920px)px;
+height: Hug (1,421px)px; */
+top: 5363.65px;
+padding: 149.33px 85.33px 149.33px 85.33px;
+gap: 64px;
+opacity: 0px;
+
+}
+
+.formbtn{
+
+background-color: #5E3BEE;
+border: none;
+}
+
+.fieldclr{
+
+border: 1px solid #5E3BEE;
+
+}
